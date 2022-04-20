@@ -3,12 +3,11 @@ Daynamic Webpage using php
 
 ## Database Foldername 
 
-
-```
+<pre>
 DATABASE
-
-```
+</pre>
 ## Database Name <br>
-``` mysql
+
+<pre>
 panda
-```
+</pre>
