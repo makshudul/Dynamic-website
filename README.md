@@ -1,14 +1,14 @@
 # Dynamic-webstite
 Daynamic Webpage using php
 
-## Database foldername 
+## Database Foldername 
 
 
 ```
 DATABASE
 
 ```
-## Database name <br>
-``` sql
+## Database Name <br>
+``` mysql
 panda
 ```
