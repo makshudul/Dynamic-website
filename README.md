@@ -1,5 +1,5 @@
 # Dynamic-webstite
-Daynamic Webpage using php
+Dynamic Webpage using php
 
 ## Database Foldername 
 
